@@ -1,0 +1,471 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="JSPExample" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="de9434f3-6e73-416f-b53f-7ff9cb99b2a7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/JSPExample.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JSPExample.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/.idea/artifacts/JSPExample.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/.idea/libraries/jsp_api.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/.idea/libraries/servlet_api.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/JSPExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/com/itzcn/MyPicApplet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/com/jspdev/ch3/MyApplet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/ApplicationExample.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/BeanExample.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/BeanExample10.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/BeanExample2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/BeanExample3.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/BeanExample4.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/BeanExample5.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/BeanExample6.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/BeanExample7.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/BeanExample8.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/BeanExample9.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/Da.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/Date.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/JEx.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/JExample2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/JExample3.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/JExample4.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/JExample5.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/JExample6.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/JExample6_1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/JExample7.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/JExample7_1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/JExample8.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/RequestExample.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/RequestExample1_1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/RequestExample2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/RequestExample2_1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/RequestExample3.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/ResponseExample1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/ResponseExample1_1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/ResponseExample1_2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/ResponseExample2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/ResponseExample3.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/ResponseExample3_1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/SessionExample1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/SessionExample1_1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/SessionExample1_2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/SiExample.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/SiExample1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/baner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/bottom.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/calendar.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/center.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/content.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/count.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/css.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/doLogin.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/doShop.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/fail.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/insert.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/insert_do.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/jsp/Factorial.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/jsp/exam.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/jsp/include.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/jsp/jspinclude.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/pay.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/plugin.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/request.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/shop.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/success.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/classes/web/top.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/artifacts/JSPExample/WEB-INF/web.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/.idea/artifacts/JSPExample.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/.idea/encodings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/.idea/libraries/jsp_api.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/.idea/libraries/servlet_api.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/web/WEB-INF/classes/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/JSPExample.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/com/itzcn/MyPicApplet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/com/jspdev/ch3/MyApplet.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/ApplicationExample.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/BeanExample.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/BeanExample10.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/BeanExample2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/BeanExample3.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/BeanExample4.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/BeanExample5.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/BeanExample6.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/BeanExample7.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/BeanExample8.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/BeanExample9.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/Da.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/Date.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/JEx.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/JExample2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/JExample3.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/JExample4.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/JExample5.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/JExample6.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/JExample6_1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/JExample7.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/JExample7_1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/JExample8.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/META-INF/MANIFEST.MF" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/RequestExample.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/RequestExample1_1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/RequestExample2.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/RequestExample2_1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/RequestExample3.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/ResponseExample1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/ResponseExample1_1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/ResponseExample1_2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/ResponseExample2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/ResponseExample3.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/ResponseExample3_1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/SessionExample1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/SessionExample1_1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/SessionExample1_2.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/SiExample.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/SiExample1.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/WEB-INF/web.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/baner.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/bottom.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/calendar.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/center.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/content.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/count.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/css.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/doLogin.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/doShop.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/fail.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/index.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/insert.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/insert_do.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/js.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/jsp/Factorial.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/jsp/exam.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/jsp/include.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/jsp/jspinclude.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/login.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/pay.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/plugin.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/request.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/shop.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/success.jsp" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/test.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/web/WEB-INF/classes/web/top.html" beforeDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jsp File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="LogFilters">
+    <option name="FILTER_ERRORS" value="false" />
+    <option name="FILTER_WARNINGS" value="false" />
+    <option name="FILTER_INFO" value="true" />
+    <option name="FILTER_DEBUG" value="true" />
+    <option name="CUSTOM_FILTER" />
+  </component>
+  <component name="ProjectId" id="1Pl7E8ghhe2CAOY6F3rsfihv76R" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.externalTools" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web/WEB-INF" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Tomcat 9.0.22" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.22" ALTERNATIVE_JRE_ENABLED="true" ALTERNATIVE_JRE_PATH="/Library/Java/JavaVirtualMachines/jdk-12.0.2.jdk/Contents/Home" nameIsGenerated="true">
+      <option name="BROWSER_ID" value="e5120d43-2c3f-47ef-9f26-65e539e05186" />
+      <option name="COMMON_VM_ARGUMENTS" value="-Dfile.encoding=UTF-8" />
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="JSPExample">
+          <settings>
+            <option name="CONTEXT_PATH" value="/JSPExample" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="Tomcat_7_0_94_(1)_JSPExample" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51400" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="JSPExample" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Local" APPLICATION_SERVER_NAME="Tomcat 9.0.22" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="UPDATING_POLICY" value="restart-server" />
+      <deployment>
+        <artifact name="JSPExample">
+          <settings>
+            <option name="CONTEXT_PATH" value="/JSPExample" />
+          </settings>
+        </artifact>
+      </deployment>
+      <server-settings>
+        <option name="BASE_DIRECTORY_NAME" value="_JSPExample" />
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="Tomcat Catalina" />
+      <predefined_log_file id="Tomcat Manager" />
+      <predefined_log_file id="Tomcat Host Manager" />
+      <predefined_log_file id="Tomcat Localhost Access" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="51400" />
+      </RunnerSettings>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Run">
+        <option name="USE_ENV_VARIABLES" value="true" />
+        <STARTUP>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </STARTUP>
+        <SHUTDOWN>
+          <option name="USE_DEFAULT" value="true" />
+          <option name="SCRIPT" value="" />
+          <option name="VM_PARAMETERS" value="" />
+          <option name="PROGRAM_PARAMETERS" value="" />
+        </SHUTDOWN>
+      </ConfigurationWrapper>
+      <method v="2">
+        <option name="Make" enabled="true" />
+        <option name="BuildArtifacts" enabled="true">
+          <artifact name="JSPExample" />
+        </option>
+      </method>
+    </configuration>
+    <configuration default="true" type="#com.intellij.j2ee.web.tomcat.TomcatRunConfigurationFactory" factoryName="Remote" ALTERNATIVE_JRE_ENABLED="false">
+      <option name="LOCAL" value="false" />
+      <deployment />
+      <server-settings>
+        <data>
+          <option name="targets">
+            <list>
+              <WatchedTargetModelImpl>
+                <option name="name" value="CONTEXT_XML" />
+                <name>CONTEXT_XML</name>
+              </WatchedTargetModelImpl>
+              <StagingTargetModelImpl>
+                <option name="name" value="STAGING" />
+                <name>STAGING</name>
+              </StagingTargetModelImpl>
+            </list>
+          </option>
+          <option name="transportHostId" />
+        </data>
+      </server-settings>
+      <predefined_log_file enabled="true" id="Tomcat" />
+      <predefined_log_file enabled="true" id="TOMCAT_LOCALHOST_LOG_ID" />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="53361" />
+        <option name="LOCAL" value="false" />
+      </RunnerSettings>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="de9434f3-6e73-416f-b53f-7ff9cb99b2a7" name="Default Changelist" comment="" />
+      <created>1566436714921</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1566436714921</updated>
+      <workItem from="1566436716181" duration="6795000" />
+      <workItem from="1566443658064" duration="2756000" />
+      <workItem from="1566453345909" duration="3422000" />
+      <workItem from="1566458216683" duration="826000" />
+      <workItem from="1566459222491" duration="1153000" />
+      <workItem from="1566461436449" duration="2947000" />
+      <workItem from="1566464506254" duration="1432000" />
+      <workItem from="1566465995527" duration="599000" />
+      <workItem from="1566517919170" duration="1806000" />
+    </task>
+    <task id="LOCAL-00001" summary="Create JSPExample Project">
+      <created>1566463262473</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1566463262473</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Create JSPExample Project" />
+    <option name="LAST_COMMIT_MESSAGE" value="Create JSPExample Project" />
+  </component>
+</project>

@@ -1,0 +1,2 @@
+<%@ page contentType="text/html; charset=utf-8"%>
+歌唱我们的祖国，从此走上繁荣富强
